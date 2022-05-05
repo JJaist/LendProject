@@ -1,0 +1,36 @@
+.review {
+  padding: 40px 0;
+  padding-bottom: 40px;
+}
+
+.review-members {
+  padding-top: 40px;
+}
+
+.member-image {
+  display: inline-block;
+  float: right;
+  width: auto;
+}
+
+.member-photo {
+  border: 1px solid #fff;
+  border-radius: 8px;
+  height: 125px;
+  border-color: black;
+}
+
+.member-details {
+  display: inline-block;
+  max-width: 275px;
+  margin-left: 60px;
+}
+
+.member-details .text-small {
+  display: block;
+  color: #ff2a68;
+}
+
+.member-details .text-medium {
+  margin-bottom: 20px;
+}
