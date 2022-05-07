@@ -12,19 +12,24 @@ body {
 .title-medium {
   font-size: 30px;
   font-weight: bold;
-  margin-bottom: 12px;
-  margin-top: 20px;
+  margin-bottom: 25px;
+  margin-top: 80px;
+  display: inline-block;
+
 }
 .text-medium {
   font-size: 14px;
   line-height: 24px;
   color: #666;
+  font-weight: bold;
 }
 
 .text-lead {
-  font-size: 16px;
+  font-size: 30px;
   font-weight: normal;
   line-height: 30px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .text-small {
