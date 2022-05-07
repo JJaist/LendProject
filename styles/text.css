@@ -10,13 +10,14 @@ body {
 }
 
 .title-medium {
-  font-size: 30px;
-  font-weight: bold;
-  margin-bottom: 25px;
+  font-size: 35px;
+  padding-bottom: 25px;
   margin-top: 80px;
   display: inline-block;
-
+  font-family: "Source Code Pro", Monaco, monospace;
+  font-weight: lighter;
 }
+
 .text-medium {
   font-size: 14px;
   line-height: 24px;
@@ -25,7 +26,7 @@ body {
 }
 
 .text-lead {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: normal;
   line-height: 30px;
   margin-top: 25px;
@@ -44,8 +45,8 @@ body {
 }
 
 .text-number {
-	padding-top: 25px;
-	font-size: 14t;
+    padding-bottom: 25px;
+	font-size: 14pt;
 	color: black;
 }
 
